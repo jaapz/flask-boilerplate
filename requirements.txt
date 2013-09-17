@@ -8,5 +8,6 @@ Werkzeug==0.9.4
 argparse==1.2.1
 itsdangerous==0.23
 py==1.4.15
+pynt==0.8.0
 pytest==2.3.5
 wsgiref==0.1.2
