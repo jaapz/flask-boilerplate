@@ -9,9 +9,9 @@ Components
 
  * Flask
  * Flask-SQLAlchemy
- * Flask-WTForms
- * Flask-Login
  * Pytest
+
+In the future Flask-Login and Flask-WTForms might be added if i find the time.
 
 
 Installation
